@@ -1,0 +1,18 @@
+{
+  "Name": "Raymond 8250 (Pallet Jack)",
+  "Equipment Type":"Pallet Jack",
+  "Power Supply": "Battery",
+  "Lifetime (yrs)": 7,
+  "Battery Specs": {
+    "Durability (hrs)": 4,
+    "Charging Time": 2.25,
+    "Charging Power (kW)": 1
+  },
+  "Grid Specs": {
+    "Constant_Power": null
+  },
+  "Cost Specs": {
+    "Capital Cost ($/unit)": 0,
+    "Yearly Maintenance ($/yr)": 0
+  }
+}

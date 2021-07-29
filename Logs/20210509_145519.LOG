@@ -1,0 +1,6 @@
+BEGIN
+LOG: Opening DEFT [2021-05-09 14:55:19]
+LOG: About Text Accepted [2021-05-09 14:55:24]
+LOG: Uploaded tariff file C:/Users/pmev001/deft/Tariffs/SCE TOU-GS-3 D_CPP.csv [2021-05-09 14:55:43]
+LOG: Baseline electric load successfully validated [2021-05-09 14:55:46]
+LOG: Uploaded baseline load data file C:/Users/pmev001/deft/Baseline_Loads/Example_2019_15min.csv [2021-05-09 14:55:47]

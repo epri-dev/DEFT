@@ -1,0 +1,18 @@
+{
+  "Name": "2019 BYD 8Y (Class 8)",
+  "Equipment Type":"Terminal Tractor",
+  "Power Supply": "Battery",
+  "Lifetime (yrs)": 7,
+  "Battery Specs": {
+    "Durability (hrs)": 10,
+    "Charging Time": 4,
+    "Charging Power (kW)": 66
+  },
+  "Grid Specs": {
+    "Constant_Power": null
+  },
+  "Cost Specs": {
+    "Capital Cost ($/unit)": 0,
+    "Yearly Maintenance ($/yr)": 0
+  }
+}

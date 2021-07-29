@@ -1,0 +1,11 @@
+Click "Upload Baseline Load Data" to upload an already-formatted csv file containing baseline electric load profile.
+
+OR
+
+Click "Upload Utility Bills" to upload information from your utility bills to estimate your load profile.
+
+If you know the maximum load that the your connection can serve, enter it in the 'planned load limit' box.
+
+After uploading the file, you can preview the data by interacting with the plot to the right. You can pan, zoom, scroll, etc.
+
+

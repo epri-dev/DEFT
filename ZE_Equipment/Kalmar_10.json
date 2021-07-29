@@ -1,0 +1,18 @@
+{
+  "Name": "Kalmar Ottawa T2E (Gang of 10)",
+  "Equipment Type":"Terminal Tractor",
+  "Power Supply": "Battery",
+  "Lifetime (yrs)": 7,
+  "Battery Specs": {
+    "Durability (hrs)": 6,
+    "Charging Time": 3,
+    "Charging Power (kW)": 700
+  },
+  "Grid Specs": {
+    "Constant_Power": null
+  },
+  "Cost Specs": {
+    "Capital Cost ($/unit)": 0,
+    "Yearly Maintenance ($/yr)": 0
+  }
+}

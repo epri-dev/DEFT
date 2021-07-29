@@ -1,0 +1,8 @@
+Select whether you would like the battery-powered equipment to undergo uncontrolled charging (they will charge as fast as possible as soon as they are plugged in) or managed charging (a controller will keep the battery chargers from increasing monthly peak demand by more than the specified amount)
+
+When you first visit this page, it will automatically simulate the battery vehicles undergoing uncontrolled charging. To simulate managed charging, select managed from the drop-down to the right and click (Re-)calculate EV charging.
+
+You can interact with the plot (zoom in using the magnifying glass tool) to explore the consequences of this decision in detail.
+
+Note: Managed charging can be computationally intense. Please allow a minute or two for this to finish small cases and an hour or more for very complicated cases with hundreds of vehicles in a single simulation. (The more vehicles on the schedule, the longer this will take)
+

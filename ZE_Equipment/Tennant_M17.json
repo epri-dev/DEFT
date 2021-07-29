@@ -1,0 +1,18 @@
+{
+  "Name": "Tennant M17 ride-on sweeper/scrubber",
+  "Equipment Type":"Sweeper",
+  "Power Supply": "Battery",
+  "Lifetime (yrs)": 7,
+  "Battery Specs": {
+    "Durability (hrs)": 3.1,
+    "Charging Time": 6,
+    "Charging Power (kW)": 5.2
+  },
+  "Grid Specs": {
+    "Constant_Power": null
+  },
+  "Cost Specs": {
+    "Capital Cost ($/unit)": 0,
+    "Yearly Maintenance ($/yr)": 0
+  }
+}

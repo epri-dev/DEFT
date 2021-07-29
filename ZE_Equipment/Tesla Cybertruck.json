@@ -1,0 +1,13 @@
+{
+  "Name": "Tesla Cybertruck",
+  "Equipment Type": "Pickup Truck",
+  "Power Supply": "Battery",
+  "Battery Specs": {
+    "Durability (hrs)":16.0,
+    "Charging Time":5.0,
+    "Charging Power (kW)":0.0
+  },
+  "Grid Specs": {
+    "Constant_Power": null
+  }
+}

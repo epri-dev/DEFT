@@ -1,0 +1,15 @@
+Billing Period,Start Month,End Month,Start Time,End Time,Excluding Start Time,Excluding End Time,Weekday?,Value,Charge,Name_optional
+1,6,9,17,21,,,1,0.12889,Energy,Summer On-Peak Energy Charge
+2,6,9,17,21,,,1,31.43,Demand,Summer On-Peak Demand Charge
+3,6,9,1,24,17,21,1,0.09299,Energy,Summer Off-Peak Energy Charge
+4,6,9,17,21,,,0,0.12005,Energy,Summer Mid-Peak Energy Charge
+5,6,9,1,24,17,21,0,0.09299,Energy,Summer Off-Peak Energy Charge
+6,1,5,17,21,,,2,0.10926,Energy,Winter Mid Peak Energy Charge
+7,1,5,17,21,,,1,7.67,Demand,Winter Mid Peak Demand Charge
+8,1,5,1,24,9,21,2,0.09831,Energy,Winter Off-Peak Energy Charge
+9,1,5,9,16,,,2,0.07779,Energy,Winter Super Off-Peak Energy Charge
+10,10,12,17,21,,,2,0.10926,Energy,Winter Mid Peak Energy Charge
+11,10,12,17,21,,,1,7.67,Demand,Winter Mid Peak Demand Charge
+12,10,12,1,24,9,21,2,0.09831,Energy,Winter Off-Peak Energy Charge
+13,10,12,9,16,,,2,0.07779,Energy,Winter Super Off-Peak Energy Charge
+14,1,12,1,24,,,2,14.63,Demand,Facility Demand Charge

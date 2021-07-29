@@ -1,0 +1,2 @@
+WARNING: New Electric Load
+Exceeds Planned Load Limit

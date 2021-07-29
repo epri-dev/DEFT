@@ -1,0 +1,20 @@
+{
+  "DIESEL_DOLLARS_PER_GALLON": 4,
+  "DIESEL_PM2.5_g_PER_GALLON": 6.0,
+  "DIESEL_NOX_g_PER_GALLON": 9.5,
+  "DIESEL_CO2_kge_PER_GALLON": 10.1,
+  "DIESEL_KWH_PER_GALLON_EQ": 9.6,
+  "DERVET_MODEL_PARAMETERS_FILENAME": "./dervet/dervet/DEFT_MP.csv",
+  "DERVET_MODEL_PARAMETERS_REFERENCE": "./dervet/dervet/DEFT_MP_Reference.csv",
+  "DERVET_TIMESERIES_FILENAME": "./dervet/dervet/storagevet/Data/DEFT_TS.csv",
+  "DERVET_TIMESERIES_RESULTS_FILENAME": ".\\dervet\\dervet\\Results\\DEFT_Results\\timeseries_resultsdeft_battery_results.csv",
+  "DERVET_SIZE_RESULTS_FILENAME": ".\\dervet\\dervet\\Results\\DEFT_Results\\sizedeft_battery_results.csv",
+  "DERVET_BATTERY_COST_PER_KW": 800,
+  "DERVET_BATTERY_COST_PER_KWH": 200,
+  "DERVET_BATTERY_FIXED_COST": 0,
+  "SCHEDULE_FRAC_ON_BREAK": 0.25,
+  "SCHEDULE_SHIFT_LENGTH": 8,
+  "Equipment_list": ["Terminal Tractor", "Rubber Tired Gantry Crane", "Top Handler", "Side Handler", "Reach Stacker", "Forklift", "Pickup Truck"],
+  "UNMANAGED_DAYS_TO_SIMULATE": 3,
+  "MAXIMUM_N": 500
+}

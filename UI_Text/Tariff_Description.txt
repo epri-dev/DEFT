@@ -1,0 +1,3 @@
+Click "Upload Tariff File" button to upload an already-formatted csv file containing tariff information.
+
+Instructions for building your own tariff file can be found in the user guide.

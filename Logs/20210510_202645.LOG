@@ -1,0 +1,5 @@
+BEGIN
+LOG: Opening DEFT [2021-05-10 20:26:45]
+LOG: About Text Accepted [2021-05-10 20:26:49]
+LOG: Baseline electric load successfully validated [2021-05-10 20:26:53]
+LOG: Uploaded baseline load data file C:/Users/pmev001/deft/Baseline_Loads/Example_2019_15min.csv [2021-05-10 20:26:54]

@@ -1,0 +1,18 @@
+{
+  "Name": "Caterpillar (CAT) HPU 300 (Mini Excavator)",
+  "Equipment Type":"Crawler Excavator",
+  "Power Supply": "Grid",
+  "Lifetime (yrs)": 7,
+  "Battery Specs": {
+    "Durability (hrs)": null,
+    "Charging Time": null,
+    "Charging Power (kW)": null
+  },
+  "Grid Specs": {
+    "Constant_Power": 7.68
+  },
+  "Cost Specs": {
+    "Capital Cost ($/unit)": 0,
+    "Yearly Maintenance ($/yr)": 0
+  }
+}

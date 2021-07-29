@@ -1,0 +1,13 @@
+Use the "Calculate Monthly Electric Bills" 
+button to produce financial results.
+Toggle the plot between showing 
+energy charge savings and demand
+charge savings with the drop-down 
+menu. 
+
+Click "Use DER-VET to Optimize DERs" to 
+initiate an energy storage size
+optimization case in the Distributed
+Energy Resources Value Estimation Tool 
+(DER-VET) to find a good storage system
+size to maximize financial performance.

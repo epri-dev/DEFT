@@ -1,0 +1,18 @@
+{
+  "Name": "VDL AGV 280kWh",
+  "Equipment Type":"Automated Guided Vehicle",
+  "Power Supply": "Battery",
+  "Lifetime (yrs)": 7,
+  "Battery Specs": {
+    "Durability (hrs)": 11.2,
+    "Charging Time": 1.2,
+    "Charging Power (kW)": 300
+  },
+  "Grid Specs": {
+    "Constant_Power": null
+  },
+  "Cost Specs": {
+    "Capital Cost ($/unit)": 0,
+    "Yearly Maintenance ($/yr)": 0
+  }
+}

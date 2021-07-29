@@ -1,0 +1,3 @@
+This section describes the baseline electric load - the interval electric power consumption data that the terminal used before the introduction of the zero-emissions equipment being modeled here.
+
+It is important that this data source correspond with the utility meter that will be taking any new electric load to serve the new zero-emissions equipment. If a new meter will be installed to meter charging equipment, etc. and no other load will be under this new meter, then this line should be flat at 0 kW.

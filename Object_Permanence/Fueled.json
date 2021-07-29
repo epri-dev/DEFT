@@ -1,0 +1,74 @@
+{
+"Terminal Tractor": {
+  "Count": 150,
+  "GPH": 3.27
+}
+,"Rubber Tired Gantry Crane": {
+  "Count": 0,
+  "GPH": 7.0
+}
+,"Pickup Truck": {
+  "Count": 0,
+  "GPH": 3.27
+}
+,"Reach Stacker": {
+  "Count": 0,
+  "GPH": 5.0
+}
+,"Side Handler": {
+  "Count": 0,
+  "GPH": 3.27
+}
+,"Top Handler": {
+  "Count": 8,
+  "GPH": 7.0
+}
+,"Skid Steer Loader": {
+  "Count": 0,
+  "GPH": 3.27
+}
+,"Compact Wheeler Loader": {
+  "Count": 0,
+  "GPH": 3.27
+}
+,"Automated Guided Vehicle": {
+  "Count": 0,
+  "GPH": 3.27
+}
+,"Sweeper": {
+  "Count": 2,
+  "GPH": 3.0
+}
+,"Forklift": {
+  "Count": 0,
+  "GPH": 4.0
+}
+,"Pallet Jack": {
+  "Count": 0,
+  "GPH": 3.27
+}
+,"Man Lift": {
+  "Count": 0,
+  "GPH": 2.0
+}
+,"Scissor Lift": {
+  "Count": 0,
+  "GPH": 3.0
+}
+,"Boom Lift": {
+  "Count": 0,
+  "GPH": 3.27
+}
+,"Bulldozer": {
+  "Count": 0,
+  "GPH": 3.0
+}
+,"Crawler Excavator": {
+  "Count": 0,
+  "GPH": 3.27
+}
+,"Bulk Material Crane": {
+  "Count": 0,
+  "GPH": 3.27
+}
+}

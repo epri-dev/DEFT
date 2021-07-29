@@ -1,0 +1,18 @@
+{
+  "Name": "BYD ECB35 (Forklift)",
+  "Equipment Type":"Forklift",
+  "Power Supply": "Battery",
+  "Lifetime (yrs)": 7,
+  "Battery Specs": {
+    "Durability (hrs)": 9,
+    "Charging Time": 4,
+    "Charging Power (kW)": 8
+  },
+  "Grid Specs": {
+    "Constant_Power": null
+  },
+  "Cost Specs": {
+    "Capital Cost ($/unit)": 0,
+    "Yearly Maintenance ($/yr)": 0
+  }
+}

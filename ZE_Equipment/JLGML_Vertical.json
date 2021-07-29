@@ -1,0 +1,18 @@
+{
+  "Name": "JLG Skytrak 19AMI, 20-41AM Vertical Lift",
+  "Equipment Type":"Man Lift",
+  "Power Supply": "Battery",
+  "Lifetime (yrs)": 7,
+  "Battery Specs": {
+    "Durability (hrs)": 9,
+    "Charging Time": 2,
+    "Charging Power (kW)": 0.12
+  },
+  "Grid Specs": {
+    "Constant_Power": null
+  },
+  "Cost Specs": {
+    "Capital Cost ($/unit)": 0,
+    "Yearly Maintenance ($/yr)": 0
+  }
+}

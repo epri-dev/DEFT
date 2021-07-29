@@ -1,0 +1,18 @@
+{
+  "Name": "SHERPA 100 ECO (Skid-Steer Loader)",
+  "Equipment Type":"Skid Steer Loader",
+  "Power Supply": "Battery",
+  "Lifetime (yrs)": 7,
+  "Battery Specs": {
+    "Durability (hrs)": 7,
+    "Charging Time": 12,
+    "Charging Power (kW)": 0.720
+  },
+  "Grid Specs": {
+    "Constant_Power": null
+  },
+  "Cost Specs": {
+    "Capital Cost ($/unit)": 0,
+    "Yearly Maintenance ($/yr)": 0
+  }
+}

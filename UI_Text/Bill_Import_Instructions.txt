@@ -1,0 +1,3 @@
+Look for one year of bills (often PDFs) from your electric utility and fill out the "Cost ($)" column in the table based on how much you paid your utility for each bill component for each month of the year.
+
+When you are done, click, "Done Editing Bill Data" to save this information and generate a year of synthetic load data.

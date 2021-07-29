@@ -1,0 +1,6 @@
+Select the specific zero-emissions alternatives to the right for each equipment type for which you are replacing fueled equipment with zero-emissions equipment. Do this by clicking the 'Select' button next to the option of your choice.
+
+You can view the technical specifications of the existing list of zero-emissions alternatives by clicking the 'View' button next to the option of your choice.
+
+You can add to the available database of zero-emissions equipment options by clicking the "Add Tech" button.
+

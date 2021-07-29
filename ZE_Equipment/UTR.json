@@ -1,0 +1,18 @@
+{
+  "Name": "UTR",
+  "Equipment Type": "Terminal Tractor",
+  "Power Supply": "Battery",
+  "Lifetime (yrs)": 7,
+  "Battery Specs": {
+    "Durability (hrs)":8.0,
+    "Charging Time":4.0,
+    "Charging Power (kW)":50.0
+  },
+  "Grid Specs": {
+    "Constant_Power": null
+  },
+  "Cost Specs": {
+    "Capital Cost ($/unit)":200000.0,
+    "Yearly Maintenance ($/yr)":10000.0
+  }
+}

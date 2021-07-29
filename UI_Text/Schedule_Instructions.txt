@@ -1,0 +1,9 @@
+Enter the number of each piece of equipment in use for every hour of the day in the tables to the right.
+
+ONLY include vehicles that are currently fueled but will be converted to a zero-emissions alternative.
+
+The DEFT collects an "average day" schedule and a "busy day" schedule.
+
+The average day is used to calculate changes in yearly electricity use, fuel savings and time of day energy charges.
+
+The busy day is meant to represent the busiest the terminal will be in any month and is used to calculate the increase in peak load and demand charges.

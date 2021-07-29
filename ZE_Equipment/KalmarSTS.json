@@ -1,0 +1,18 @@
+{
+  "Name": "Kalmar STS Crane",
+  "Equipment Type":"Ship-to-Shore Gantry Crane",
+  "Power Supply": "Grid",
+  "Lifetime (yrs)": 20,
+  "Battery Specs": {
+    "Durability (hrs)": null,
+    "Charging Time": null,
+    "Charging Power (kW)": null
+  },
+  "Grid Specs": {
+    "Constant_Power": 1250
+  },
+  "Cost Specs": {
+    "Capital Cost ($/unit)": 0,
+    "Yearly Maintenance ($/yr)": 0
+  }
+}
